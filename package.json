@@ -1,0 +1,23 @@
+{
+  "name": "survival-village",
+  "version": "1.0.0",
+  "description": "This is the offisual webpage for my game Survival Village",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start_dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoJ07/Survival-Village.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoJ07/Survival-Village/issues"
+  },
+  "homepage": "https://github.com/leoJ07/Survival-Village#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
